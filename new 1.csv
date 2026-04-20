@@ -1,0 +1,4 @@
+TestCaseID,TestName,Status,ExecutionDate
+TC001,Login Test,Pass,2026-04-20
+TC002,Signup Test,Fail,2026-04-20
+TC003,Checkout Test,Pass,2026-04-20
